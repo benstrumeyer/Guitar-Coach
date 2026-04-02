@@ -1,4 +1,4 @@
-# Real Guitar Hero
+# Guitar Coach
 
 A real-time guitar training tool that takes MIDI input from your guitar via a Fishman TriplePlay hex pickup, detects what you're playing, and coaches you through interactive tabs with visual cues -- isolate sections, slow them down, repeat until mastered.
 
